@@ -1,7 +1,8 @@
 # 💫 About Me:
 fvfdvdf<br> n
 
-![shuvra](https://user-images.githubusercontent.com/120033964/211800143-676a2a61-91a3-46b5-ade6-03480fc3721f.jpg)
+![black](https://user-images.githubusercontent.com/120033964/211802915-2565c54f-0034-4de3-976b-2466317d59a7.jpg)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
