@@ -1,5 +1,4 @@
 # 💫 About Me:
-fvfdvdf<br> n
 
 ![black](https://user-images.githubusercontent.com/120033964/211802915-2565c54f-0034-4de3-976b-2466317d59a7.jpg)
 
